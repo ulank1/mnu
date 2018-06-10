@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Меню Терракотта</string>
+    <string name="menu_category">Menu</string>
+    <string name="your_zakaz">Your order</string>
+    <string name="vybrat">Select</string>
+    <string name="clear_order">Clear order</string>
+    <string name="welcome">Welcome!</string>
+    <string name="main_desc">Cosiness</string>
+    <string name="open_menu">ENTER MENU</string>
+    <string name="main_desc2">Delicious</string>
+    <string name="main_desc3">Comfortable</string>
+    <string name="sum_order">Order Amount</string>
+    <string name="obsluga">Service</string>
+    <string name="itogo">Total</string>
+    <string name="remove_from_order">Remove from the order?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="stock">акция</string>
+    <string name="new_food">новинка</string>
+    <string name="welcome_new">Welcome!</string>
+</resources>

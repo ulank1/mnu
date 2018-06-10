@@ -1,0 +1,1888 @@
+{
+  "salad_objects": [
+    {
+      "dish": "Салаты",
+      "title": "Фирменный салат “Терракотта”",
+      "description": "Нежный салат из свежих овощей с зернами граната, заправленный гранатовым соусом.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "260",
+      "img": "Terracotta-salad",
+      "dataId": "1",
+      "alt": "салат терракотта"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Салат “Цезарь” в оригинальном исполнении",
+      "description": "Креветки, свежие листья салата, хрустящий “Айсберг”, чесночные гренки с сыром Пармезан.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "450",
+      "img": "Salad_Caesar_original",
+      "dataId": "2",
+      "alt": "салат цезарь оригинальный"
+    },
+     {
+      "dish": "Салаты",
+      "title": "Салат “Цезарь” с курицей",
+      "description": "Нежное мясо цыпленка, свежие листья салата, хрустящий “Айсберг”, чесночные гренки с сыром Пармезан.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "320",
+      "img": "Caesar-with-chicken",
+      "dataId": "3",
+      "alt": "салат цезарь с курицей"
+    },
+     {
+      "dish": "Салаты",
+      "title": "Салат с ростбифом и рукколой",
+      "description": "Салат с ростбифом и ароматной рукколой, приготовленный с добавлением вяленых томатов, сыра Пармезан, заправленный медово-горчичным соусом.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "360",
+      "img": "Salad-with-roast-beef-and-arugula",
+      "dataId": "4",
+      "alt": "салат с ростбифом"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Салат “Греческий”",
+      "description": "Салат “Греческий” в новом стиле, заправленный соусом “Песто”. Оригинальная подача.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "290",
+      "img": "Greek-salad",
+      "dataId": "5",
+      "alt": "салат греческий"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Салат с запеченной тыквой и рукколой",
+      "description": "Идеальное сочетание спелой, запеченной тыквы, зеленых яблок и нежной ароматной рукколой с апельсиновым соусом и сыром Пармезан.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "230",
+      "img": "Salad-with-baked-pumpkin-and-arugula",
+      "dataId": "6",
+      "alt": "салат с запеченной тыквой"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Зеленый салат",
+      "description": "Свежие овощи с ароматной зеленью, заправленные оливковым маслом.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "190",
+      "img": "Fresh-salad",
+      "dataId": "7",
+      "alt": "зеленый салат"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Шуба по-средиземноморски",
+      "description": "Традиционный салат с лососем особого посола и заправленный соусом “Цезарь” с перепелиными яйцами. Новая подача.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "320",
+      "img": "Mediterranean-salad",
+      "dataId": "8",
+      "alt": "салат шуба"
+    },
+    {
+      "dish": "Салаты",
+      "title": "Традиционный салат “Оливье”",
+      "description": "Традиционный салат “Оливье” с ростбифом из говядины. Авторская подача.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "160",
+      "img": "Traditional-salad-Olivier",
+      "dataId": "9",
+      "alt": "салат оливье"
+    },
+     {
+      "dish": "Салаты",
+      "title": "“Капрезе”",
+      "description": "Традиционная итальянская закуска с сыром Моцарелла, свежими томатами и ароматным базиликом.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "240",
+      "img": "Caprese",
+      "dataId": "10",
+      "alt": "капрезе"
+    }
+
+  ],
+  "salad_objects_en": [
+    {
+      "dish": "Salads",
+      "title": "«Terracotta» salad",
+      "description": "Fresh salad of vegetables with pomegranate seeds and pomegranate sauce.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "260 ",
+      "img": "Terracotta-salad",
+      "dataId": "1",
+      "alt": "Terracotta salad"
+    },
+    {
+      "dish": "Salads",
+      "title": "Salad “Caesar” in the original version",
+      "description": "Shrimp, fresh lettuce leaves, crispy “Iceberg”, garlic toasts with Parmesan cheese.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "450 ",
+      "img": "Salad-Caesar-original",
+      "dataId": "2",
+      "alt": "Salad Caesar original"
+    },
+    {
+      "dish": "Salads",
+      "title": "Salad “Caesar” in the original version",
+      "description": "Shrimp, fresh lettuce leaves, crispy “Iceberg”, garlic toasts with Parmesan cheese.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "320",
+      "img": "Caesar-with-chicken",
+      "dataId": "3",
+      "alt": "Caesar with chicken"
+    },
+     {
+      "dish": "Salads",
+      "title": "Salad with roast beef and arugula",
+      "description": "Salad with roast beef and fragrant arugula, prepared with the addition of dried tomatoes, Parmesan cheese, honey-mustard sauce.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "360",
+      "img": "Salad-with-roast-beef-and-arugula",
+      "dataId": "4",
+      "alt": "Salad with roast beef and arugula"
+    },
+    {
+      "dish": "Salads",
+      "title": "Greek salad",
+      "description": "Salad “Greek” in a new style with “Pesto” sauce. Original feed.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "290",
+      "img": "Greek-salad",
+      "dataId": "5",
+      "alt": "Greek salad"
+    },
+    {
+      "dish": "Salads",
+      "title": "Salad with baked pumpkin and arugula",
+      "description": "Perfect combination of ripe, baked pumpkin, green apples and delicate aromatic arugula with orange sauce and Parmesan cheese.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "230",
+      "img": "Salad-with-baked-pumpkin-and-arugula",
+      "dataId": "6",
+      "alt": "Salad with baked pumpkin and arugula"
+    },
+    {
+      "dish": "Salads",
+      "title": "Fresh salad",
+      "description": "Fresh vegetables, fragrant greens with olive oil.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "190",
+      "img": "Fresh-salad",
+      "dataId": "7",
+      "alt": "Fresh salad"
+    },
+    {
+      "dish": "Salads",
+      "title": "Mediterranean salad",
+      "description": "Traditional salad with salmon of special salting and Caesar sauce with quail eggs. New feed.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "320",
+      "img": "Mediterranean-salad",
+      "dataId": "8",
+      "alt": "Mediterranean salad"
+    },
+    {
+      "dish": "Salads",
+      "title": "Traditional salad “Olivier”",
+      "description": "Traditional salad “Olivier” with roast beef from beef. Author's submission.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "160",
+      "img": "Traditional-salad-Olivier",
+      "dataId": "9",
+      "alt": "salad Olivier"
+    },
+     {
+      "dish": "Salads",
+      "title": "“Caprese”",
+      "description": "Traditional Italian snack with Mozzarella cheese, fresh tomatoes and a fragrant basil.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "240",
+      "img": "Caprese",
+      "dataId": "10",
+      "alt": "Caprese"
+    } 
+
+  ],
+  "salad_navigate": [
+    {
+      "image": "Terracotta_salad_m",
+      "number_img": "01",
+      "alt": "salat terracott"
+    },
+    {
+      "image": "Salad_Caesar_original_m",
+      "number_img": "02",
+      "alt": "Salad Caesar original"
+    },
+
+    {
+      "image": "Salad_Caesar_original_m",
+      "number_img": "03",
+      "alt": "ceaser with chiken"
+    },
+    {
+      "image": "Salad_with_roast_beef_m",
+      "number_img": "04",
+      "alt": "Salad with roast beef"
+    },
+    {
+      "image": "Greek_salad_m",
+      "number_img": "05",
+      "alt": "Greek salad"
+    },
+    {
+      "image": "Salad_with_pumpkin_m",
+      "number_img": "06",
+      "alt": "Salad with pumpkin"
+    },
+    {
+      "image": "Fresh_salad_m",
+      "number_img": "07",
+      "alt": "Fresh salad"
+    },
+    {
+      "image": "Mediterranean_salad_m",
+      "number_img": "08",
+      "alt": "Mediterranean salad"
+    },
+    {
+      "image": "Olivier_salad_m",
+      "number_img": "09",
+      "alt": "Olivier salad"
+    },
+    {
+      "image": "Caprese_m",
+      "number_img": "10",
+      "alt": "Caprese"
+    }
+  ],
+  "garnish_objects": [
+    {
+      "dish": "Гарниры",
+      "title": "Рис со шпинатом",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "80",
+      "img": "Rice-with-spinach",
+      "dataId": "11",
+      "alt": "рис со шпинатом"
+    },
+    {
+      "dish": "Гарниры",
+      "title": "Картофель Фри",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "90",
+      "img": "French-fries",
+      "dataId": "12",
+      "alt": "картофель фри"
+    },
+    {
+      "dish": "Гарниры",
+      "title": "Овощи на гриле.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "130",
+      "img": "Grilled-vegetables",
+      "dataId": "13",
+      "alt": "овощи на гриле"
+    },
+    {
+      "dish": "Гарниры",
+      "title": "Рис отварной с розмарином",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "80",
+      "img": "Rice-with-rosemary",
+      "dataId": "14",
+      "alt": "рис с розмарином"
+    },
+    {
+      "dish": "Гарниры",
+      "title": "Картофельное пюре",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "90",
+      "img": "Mashed-potatoes",
+      "dataId": "15",
+      "alt": "картофельное пюре"
+    }
+
+  ],
+  "garnish_objects_en": [
+    {
+      "dish": "Garnish",
+      "title": "Rice with spinach",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "80",
+      "img": "Rice-with-spinach",
+      "dataId": "11",
+      "alt": "rice with spinach"
+    },
+    {
+      "dish": "Garnish",
+      "title": "French fries",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "90",
+      "img": "French-fries",
+      "dataId": "12",
+      "alt": "French fries"
+    },
+    {
+      "dish": "Garnish",
+      "title": "Grilled vegetables",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "130",
+      "img": "Grilled-vegetables",
+      "dataId": "13",
+      "alt": "Grilled vegetables"
+    },
+    {
+      "dish": "Garnish",
+      "title": "Rice boiled with rosemary",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "80",
+      "img": "Rice-with-rosemary",
+      "dataId": "14",
+      "alt": "Rice with rosemary"
+    },
+    {
+      "dish": "Garnish",
+      "title": "Mashed potatoes",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "90",
+      "img": "Mashed-potatoes",
+      "dataId": "15",
+      "alt": "Mashed potatoes"
+    }
+
+  ],
+  "garnish_navigate": [
+    {
+      "image": "Rice_with_spinach_m",
+      "number_img": "01",
+      "alt": "Rice with spinach"
+    },
+    {
+      "image": "French_fries_m",
+      "number_img": "02",
+      "alt": "French fries"
+    },
+
+    {
+      "image": "Grilled_vegetables_m",
+      "number_img": "03",
+      "alt": "Grilled vegetables"
+    },
+    {
+      "image": "Rice_with_rosemary_m",
+      "number_img": "04",
+      "alt": "Rice with rosemary"
+    },
+    {
+      "image": "Mashed_potatoes_m",
+      "number_img": "5",
+      "alt": "Mashed potatoes"
+    }
+  ],
+  "sandwich_objects": [
+    {
+      "dish": "Сэндвичи",
+      "title": "Врап с курицей",
+      "description": "Куриное филе с ароматной зеленью, сыром Моцарелла и свежими томатами.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "240",
+      "img": "Wrap-with-chicken",
+      "dataId": "16",
+      "alt": "врап с курицей"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Врап с ростбифом из говядины",
+      "description": "Ростбиф из говядины с ароматной зеленью, сыром Моцарелла и свежими томатами.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "260",
+      "img": "Wrap-with-roast-beef",
+      "dataId": "17",
+      "alt": "врап с ростбифом"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Бургер с курицей на гриле",
+      "description": "Размер XL.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "260",
+      "img": "Burger-with-chicken",
+      "dataId": "18",
+      "alt": "бургер с курицей"
+    },
+     {
+      "dish": "Сэндвичи",
+      "title": "Бургер с говядиной на гриле",
+      "description": "Размер XL.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "280",
+      "img": "Burger-with-grilled-beef",
+      "dataId": "19",
+      "alt": "бургер с говядиной"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Сэндвич с курицей",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "120",
+      "img": "Sandwich-with-chicken",
+      "dataId": "20",
+      "alt": "сэндвич с курицей"
+    },
+     {
+      "dish": "Сэндвичи",
+      "title": "Сэндвич с ростбифом",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Sandwich-with-roast-beef",
+      "dataId": "21",
+      "alt": "сэндвич с ростбифом"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Клаб-сэндвич “Особенный” с курицей",
+      "description": "Куриное филе на гриле и свежие овощи.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "150",
+      "img": "Club-sandwich-Special-with-chicken",
+      "dataId": "22",
+      "alt": "клаб сэндвич с курицей"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Клаб-сэндвич “Особенный” с ростбифом",
+      "description": "Сочный ростбиф и свежие овощи.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "180",
+      "img": "Club-sandwich-Special-with-roast-beef",
+      "dataId": "23",
+      "alt": "клаб сэндвич с ростбифом"
+    },
+    {
+      "dish": "Сэндвичи",
+      "title": "Наггетсы из куриного филе",
+      "description": "Хрущие наггетсы из куриного филе, с пикантным соусом.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "215",
+      "img": "Nuggets-from-chicken-fillet",
+      "dataId": "24",
+      "alt": "наггетсы из куриного филе"
+    }
+
+  ],
+  "sandwich_objects_en": [
+    {
+      "dish": "Sandwiches",
+      "title": "Wrap with chicken",
+      "description": "Chicken fillet with fragrant greens, Mozzarella cheese and fresh tomatoes.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "240",
+      "img": "Wrap-with-chicken",
+      "dataId": "16",
+      "alt": "Wrap with chicken"
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Wrap with roast beef",
+      "description": "Roast beef with fragrant greens, Mozzarella cheese and fresh tomatoes.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "260",
+      "img": "Wrap-with-roast-beef",
+      "dataId": "17",
+      "alt": "Wrap with roast beef"
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Burger with chicken",
+      "description": "Size XL.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "260",
+      "img": "Burger-with-chicken",
+      "dataId": "18",
+      "alt": "Burger with chicken"
+    },
+     {
+      "dish": "Sandwiches",
+      "title": "Burger with grilled beef",
+      "description": "Size XL.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "280",
+      "img": "Burger-with-grilled-beef",
+      "dataId": "19",
+      "alt": "Burger with beef."
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Sandwich with chicken",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "120",
+      "img": "Sandwich-with-chicken",
+      "dataId": "20",
+      "alt": "Sandwich with chicken"
+    },
+     {
+      "dish": "Sandwiches",
+      "title": "Sandwich with roast beef",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Sandwich-with-roast-beef",
+      "dataId": "21",
+      "alt": "Sandwich with roast beef"
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Club-sandwich “Special” with chicken",
+      "description": "Grilled chicken fillet and fresh vegetables.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "150",
+      "img": "Club-sandwich-Special-with-chicken",
+      "dataId": "22",
+      "alt": "Club-sandwich with chicken"
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Club-sandwich “Special” with roast beef",
+      "description": "Roast beef and fresh vegetables.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "180",
+      "img": "Club-sandwich Special with roast beef",
+      "dataId": "23",
+      "alt": "Club-sandwich with roast beef"
+    },
+    {
+      "dish": "Sandwiches",
+      "title": "Nuggets from chicken fillet",
+      "description": "Grinning nuggets from chicken fillet, with spicy sauce.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "215",
+      "img": "Nuggets-from-chicken-fillet",
+      "dataId": "24",
+      "alt": "Nuggets from chicken fillet"
+    }
+
+  ],
+  "sandwich_navigate": [
+    {
+      "image": "Wrap-with-chicken-m",
+      "number_img": "01",
+      "alt": "Wrap with chicken"
+    },
+    {
+      "image": "Wrap-with-roast-beef-m",
+      "number_img": "02",
+      "alt": "Wrap with roast beef"
+    },
+
+    {
+      "image": "Burger-with-chicken-m",
+      "number_img": "03",
+      "alt": "Burger with chicken"
+    },
+    {
+      "image": "Burger-with-grilled-beef-m",
+      "number_img": "04",
+      "alt": "Burger with grilled beef"
+    },
+    {
+      "image": "Sandwich-with-chicken-m",
+      "number_img": "05",
+      "alt": "Sandwich with chicken"
+    },
+    {
+      "image": "Sandwich-with-roast-beef-m",
+      "number_img": "06",
+      "alt": "Sandwich with roast beef"
+    },
+    {
+      "image": "Club-sandwich-Special-with-chicken-m",
+      "number_img": "07",
+      "alt": "Club sandwich with chicken"
+    },
+    {
+      "image": "Club-sandwich-with-roast-beef-m",
+      "number_img": "08",
+      "alt": "Club sandwich with roast beef"
+    },
+    {
+      "image": "Nuggets-from-chicken-fillet-m",
+      "number_img": "09",
+      "alt": "Nuggets from chicken fillet"
+    }
+  ],
+  "pasta_objects": [
+    {
+      "dish": "Паста",
+      "title": "Феттучини с курицей",
+      "description": "Куриное филе, свежие шампиньоны с ароматом чеснока в сливочном сырном соусе с Пармезаном.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "340",
+      "img": "Fettuccine-with-chicken",
+      "dataId": "25",
+      "alt": "феттучини с курицей"
+    },
+    {
+      "dish": "Паста",
+      "title": "Спагетти “Болоньезе”",
+      "description": "Классический рецепт на основе томатного соуса, с фаршем из вырезки, с сыром Пармезан.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "340",
+      "img": "Spaghetti-Bolognese",
+      "dataId": "26",
+      "alt": "спагетти болоньезе"
+    },
+    {
+      "dish": "Паста",
+      "title": "Пенне с куриными шариками и луком шалот",
+      "description": "Небольшие макаронные трубочки с шариками из курицы, свежим перцем и луком шалот.",
+      "ingridients": "",
+      "price": "330",
+      "img": "Penne-with-chicken-balls-and-shallots",
+      "dataId": "27",
+      "alt": "пенне с куриными шариками"
+    }
+
+  ],
+  "pasta_objects_en": [
+    {
+      "dish": "Pasta",
+      "title": "Fettuccine with chicken",
+      "description": "Chicken fillet, fresh champignons with garlic flavor in creamy cheese sauce with Parmesan cheese.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "340",
+      "img": "Fettuccine-with-chicken",
+      "dataId": "25",
+      "alt": "Fettuccine with chicken"
+    },
+    {
+      "dish": "Pasta",
+      "title": "Spaghetti “Bolognese”",
+      "description": "A classic recipe based on tomato sauce with minced veal ﬁllet and parmesan cheese.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "340",
+      "img": "Spaghetti-Bolognese",
+      "dataId": "26",
+      "alt": "Spaghetti Bolognese"
+    },
+    {
+      "dish": "Pasta",
+      "title": "Penne with chicken balls and shallots",
+      "description": "Small pasta with chicken balls and small onions.",
+      "ingridients": "",
+      "price": "330",
+      "img": "Penne-with-chicken-balls-and-shallots",
+      "dataId": "27",
+      "alt": "Penne with chicken balls"
+    }
+
+  ],
+  "pasta_navigate": [
+    {
+      "image": "Fettuccine-with-chicken-m",
+      "number_img": "01",
+      "alt": "Fettuccine with chicken"
+    },
+    {
+      "image": "Spaghetti-Bolognese-m",
+      "number_img": "02",
+      "alt": "Spaghetti Bolognese"
+    },
+    {
+      "image": "Penne-with-chicken-balls-and-shallots-m",
+      "number_img": "03",
+      "alt": "Penne with chicken balls"
+    }
+  ],
+  "pizza_objects": [
+    {
+      "dish": "Пицца",
+      "title": "Пицца “Средиземноморская” с лососем",
+      "description": "Лосось в томатном соусе, с сыром Моцарелла и посыпанная красной лососевой икрой.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "450",
+      "img": "Pizza-Mediterranean-with-salmon",
+      "dataId": "28",
+      "alt": "пицца средиземноморская с лососем"
+    },
+    {
+      "dish": "Пицца",
+      "title": "Пицца “Маргарита”",
+      "description": "Традиционная пицца с сыром Моцарелла, томатами и рукколой.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "260",
+      "img": "Pizza-Margarita",
+      "dataId": "29",
+      "alt": "пицца маргарита"
+    },
+    {
+      "dish": "Пицца",
+      "title": "Пицца “Kvatro Fermacho”",
+      "description": "Фирменный рецепт пиццы на основе 4-х видов сыра: Пармезан, Чеддер, творожный сыр и Моцарелла.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "450",
+      "img": "Pizza-Kvatro-Fermacho",
+      "dataId": "30",
+      "alt": "пицца кватро формачо"
+    },
+    {
+      "dish": "Пицца",
+      "title": "Пицца “Коррида мясная”",
+      "description": "Острая пицца с говядиной, перцем Халапеньо, томатами, луком и сыром Моцарелла.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "530",
+      "img": "Pizza-Bullfight",
+      "dataId": "31",
+      "alt": "пицца мясная коррида"
+    },
+    {
+      "dish": "Пицца",
+      "title": "Пицца с куриным филе и свежими шампиньонами",
+      "description": "Куриное филе, свежие шампиньоны, томаты, свежий перец и сыр Моцарелла.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "450",
+      "img": "Pizza-with-chicken-fillet-and-fresh-champignons",
+      "dataId": "32",
+      "alt": "пицца с куриным филе и шапминьонами"
+    }
+
+  ],
+  "pizza_objects_en": [
+    {
+      "dish": "Pizza",
+      "title": "Pizza “Mediterranean” with salmon",
+      "description": "Salmon in tomato sauce, with Mozzarella cheese and red salmon caviar.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "450",
+      "img": "Pizza-Mediterranean-with-salmon",
+      "dataId": "28",
+      "alt": "pizza with salmon"
+    },
+    {
+      "dish": "Pizza",
+      "title": "Pizza “Margarita”",
+      "description": "Traditional pizza with Mozzarella cheese, tomatoes and arugula.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "260",
+      "img": "Pizza-Margarita",
+      "dataId": "29",
+      "alt": "Pizza Margarita"
+    },
+    {
+      "dish": "Pizza",
+      "title": "Pizza “Kvatro Fermacho”",
+      "description": "A pizza recipe based on 4 kinds of cheese: Parmesan, Cheddar, cottage cheese and Mozzarella.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "450",
+      "img": "Pizza-Kvatro-Fermacho",
+      "dataId": "30",
+      "alt": "Pizza Kvatro Fermacho"
+    },
+    {
+      "dish": "Pizza",
+      "title": "Pizza “Bullfight”",
+      "description": "Spicy pizza with beef, jalapeno pepper, tomatoes, onion and Mozzarella cheese.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "530",
+      "img": "Pizza-Bullfight",
+      "dataId": "31",
+      "alt": "Pizza Bullfight"
+    },
+    {
+      "dish": "Pizza",
+      "title": "Pizza with chicken fillet and fresh champignons",
+      "description": "Chicken fillet, fresh champignons, tomatoes, fresh pepper and Mozzarella cheese.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "450",
+      "img": "Pizza-with-chicken-fillet-and-fresh-champignons",
+      "dataId": "32",
+      "alt": "Pizza with chicken fillet"
+    }
+
+  ],
+  "pizza_navigate": [
+    {
+      "image": "Pizza-Mediterranean-with-salmon-m",
+      "number_img": "01",
+      "alt": "pizza with salmon"
+    },
+    {
+      "image": "Pizza-Margarita-m",
+      "number_img": "02",
+      "alt": "Pizza Margarita"
+    },
+
+    {
+      "image": "Pizza-Kvatro-Fermacho-m",
+      "number_img": "03",
+      "alt": "Pizza Kvatro Fermacho"
+    },
+    {
+      "image": "Pizza-Bullfight-m",
+      "number_img": "04",
+      "alt": "Pizza Bullfight"
+    },
+    {
+      "image": "Pizza-with-chicken-fillet-and-fresh-champignons-m",
+      "number_img": "05",
+      "alt": "Pizza with chicken fillet"
+    }
+  ],
+  "soups_objects": [
+    {
+      "dish": "Супы",
+      "title": "Острый суп с лапшичкой",
+      "description": "Острый суп с лапшичкой, приготовленный по особому итальянскому рецепту.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "195",
+      "img": "Spicy-soup-with-noodles",
+      "dataId": "33",
+      "alt": "суп с лапшой"
+    },
+    {
+      "dish": "Супы",
+      "title": "Крем суп из спелой тыквы",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "145",
+      "img": "Cream-soup-of-pumpkin",
+      "dataId": "34",
+      "alt": "крем суп из спелой тыквы"
+    },
+    {
+      "dish": "Супы",
+      "title": "Крем суп из свежих грибов",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "255",
+      "img": "Cream-soup-of-fresh-mushroom",
+      "dataId": "35",
+      "alt": "крем суп из свежих грибов"
+    }
+
+  ],
+  "soups_objects_en": [
+    {
+      "dish": "Soups",
+      "title": "Spicy soup with noodles",
+      "description": "Spicy soup with noodles, cooked according to a special Italian recipe.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "195",
+      "img": "Spicy-soup-with-noodles",
+      "dataId": "33",
+      "alt": "spicy soup with noodles"
+    },
+    {
+      "dish": "Soups",
+      "title": "Cream soup of pumpkin",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "145",
+      "img": "Cream-soup-of-pumpkin",
+      "dataId": "34",
+      "alt": "cream soup of pumpkin"
+    },
+    {
+      "dish": "Soups",
+      "title": "Cream soup of fresh mushroom",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "255",
+      "img": "Cream-soup-of-fresh-mushroom",
+      "dataId": "35",
+      "alt": "cream soup of fresh mushroom"
+    }
+
+  ],
+  "soups_navigate": [
+    {
+      "image": "Spicy-soup-with-noodles-m",
+      "number_img": "01",
+      "alt": "spicy soup with noodles"
+    },
+    {
+      "image": "Cream-soup-pumpkin-m",
+      "number_img": "02",
+      "alt": "cream soup of pumpkin"
+    },
+    {
+      "image": "Cream-soup-of-fresh-mushroom-m",
+      "number_img": "03",
+      "alt": "cream soup of fresh mushroom"
+    }
+  ],
+  "breakfast_objects": [
+   {
+    "dish": "Завтраки",
+    "title": "Английский завтрак",
+    "description": "Скрэмбл на тосте, овсяная каша по-английски, свежие овощи (по сезону), сливочное масло, мед, джем, твердый сыр и свежие булочки, собственного приготовления.",
+    "ingridients": "Нежный салат с зернами граната",
+    "price": "350",
+    "img": "English-breakfast",
+    "dataId": "36",
+    "alt": "английский завтрак"
+   },
+   {
+    "dish": "Завтраки",
+    "title": "Итальянский завтрак",
+    "description": "Брускетта с лососем, легкий зеленый салат с помидорами черри, сыром Моцарелла, средиземноморские оливки, вяленые томаты, сливочное масло, джем, шоколад, твердый сыр, омлет “Фриттата” и свежие булочки, собственного приготовления.",
+    "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+    "price": "350",
+    "img": "Italian-breakfast",
+    "dataId": "37",
+    "alt": "итальянский завтрак"
+   },
+   {
+    "dish": "Завтраки",
+    "title": "Традиционный Турецкий завтрак",
+    "description": "Твердый сыр 3-х видов, средиземноморские оливки, шоколад, джем, мед, каймак, сливочное масло, свежие помидоры, огурцы, национальные пирожки, 2 яйца и свежие булочки, собственного приготовления.",
+    "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+    "price": "390",
+    "img": "Traditional-Turkish-breakfast",
+    "dataId": "38",
+    "alt": "турецкий завтрак"
+   }
+  ],
+  "breakfast_objects_en": [
+   {
+    "dish": "Breakfast",
+    "title": "English breakfast",
+    "description": "Scramble on toast, oatmeal in English, fresh vegetables (seasonal), butter, honey, jam, hard cheese and fresh rolls, own cooking.",
+    "ingridients": "Нежный салат с зернами граната",
+    "price": "350",
+    "img": "English-breakfast",
+    "dataId": "36",
+    "alt": "english breakfast"
+   },
+   {
+    "dish": "Breakfast",
+    "title": "Italian breakfast",
+    "description": "Bruschetta with salmon, light salad with mozzarella and cherry tomatoes, traditional omelet with vegetables Frittata, brioche.",
+    "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+    "price": "350",
+    "img": "Italian-breakfast",
+    "dataId": "37",
+    "alt": "italian breakfast"
+   },
+   {
+    "dish": "Breakfast",
+    "title": "Traditional Turkish breakfast",
+    "description": "Hard cheese of 3 kinds, Mediterranean olives, chocolate, jam, honey, kaimak, butter, fresh tomatoes, cucumbers, national patties, 2 eggs and fresh rolls, own cooking.",
+    "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+    "price": "390",
+    "img": "Traditional-Turkish-breakfast",
+    "dataId": "38",
+    "alt": "turkish breakfast"
+   }
+
+  ],
+  "breakfast_navigate": [
+    {
+      "image": "English-breakfast-m",
+      "number_img": "01",
+      "alt": "english breakfast"
+    },
+    {
+      "image": "Italian-breakfast-m",
+      "number_img": "02",
+      "alt": "italian breakfast"
+    },
+    {
+      "image": "Traditional-Turkish-breakfast-m",
+      "number_img": "03",
+      "alt": "turkish breakfast"
+    }
+  ],
+  "starters_objects": [
+    {
+      "dish": "Закуски",
+      "title": "Гравлакс из лосося с рукколой",
+      "description": "Филе лосося с ароматной рукколой и горчичным соусом. Подается с хрустящими тостами.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "410",
+      "img": "Gravel-with-salmon-and-mustard-sauce",
+      "dataId": "39",
+      "alt": "гравлакс из лосося"
+    },
+    {
+      "dish": "Закуски",
+      "title": "Ростбиф из антрекота",
+      "description": "Ростбиф из антрекота с тунцовым соусом, каперсами и ароматной зеленью.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "530",
+      "img": "Roast-beef-from-entrecote",
+      "dataId": "40",
+      "alt": "ростбиф из антрекота"
+    },
+    {
+      "dish": "Закуски",
+      "title": "Хлебная корзинка, собственного приготовления",
+      "description": "Хрустящий, свежеиспеченный хлеб нескольких видов.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "120",
+      "img": "Cereal-basket",
+      "dataId": "41",
+      "alt": "хлебная корзинка"
+    }
+
+  ],
+  "starters_objects_en": [
+    {
+      "dish": "Starters",
+      "title": "Gravel with salmon and mustard sauce",
+      "description": "Fillet of salmon with aromatic arugula and mustard sauce. Served with crispy toast.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "410",
+      "img": "Gravel-with-salmon-and-mustard-sauce",
+      "dataId": "39",
+      "alt": "gravel with salmon"
+    },
+    {
+      "dish": "Starters",
+      "title": "Roast beef from entrecote",
+      "description": "Roast beef from entrecote with tuna sauce, capers and fragrant greens.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "530",
+      "img": "Roast-beef-from-entrecote",
+      "dataId": "40",
+      "alt": "roast beef from entrecote"
+    },
+    {
+      "dish": "Starters",
+      "title": "Cereal basket, own preparation",
+      "description": "Crisp, freshly baked bread of several kinds.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "120",
+      "img": "Cereal-basket",
+      "dataId": "41",
+      "alt": "cereal basket"
+    }
+
+  ],
+  "starters_navigate": [
+    {
+      "image": "Gravel-with-salmon-and-mustard-sauce-m",
+      "number_img": "01",
+      "alt": "gravel with salmon"
+    },
+    {
+      "image": "Roast-beef-from-entrecote-m",
+      "number_img": "02",
+      "alt": "roast beef from entrecote"
+    },
+    {
+      "image": "Cereal-basket-m",
+      "number_img": "03",
+      "alt": "cereal basket"
+    }
+  ],
+  "grill_objects": [
+    {
+      "dish": "Блюда на гриле",
+      "title": "Филе Миньон",
+      "description": "Вырезка из говядины, обжаренная на гриле. Подается с гарниром из спаржи и картофеля Фри с соусом из чернослива.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "570",
+      "img": "Fillet-Mignon",
+      "dataId": "42",
+      "alt": "Филе Миньон"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Медальоны из говядины",
+      "description": "Нежная говяжья вырезка, приготовленная на гриле с ароматными травами. Подается с грибным соусом.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "570",
+      "img": "Fillet-Mignon",
+      "dataId": "43",
+      "alt": "медальоны из говядины"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Стейк из лосося",
+      "description": "Стейк из лосося, обжаренный на гриле. Подается с гарниром - рис со шпинатом, пикантным шпинатным соусом и дольками лимона.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "620",
+      "img": "Salmon-Steak",
+      "dataId": "44",
+      "alt": "стейк из лосося"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Бифштекс из говяжьей вырезки",
+      "description": "Отборная говяжья вырезка, приготовленная на гриле с чесноком, ароматными травами розмарина и тимьяна. Подается с овощами, припущенными на гриле.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "570",
+      "img": "Beef-steak-fillet-steak",
+      "dataId": "45",
+      "alt": "бифштекс из говяжьей вырезки"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Куриное филе с овощами",
+      "description": "Куриное филе с овощами, тушеное в томатном соусе с ароматным чесноком и тимьяном.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "415",
+      "img": "Chicken-fillet-with-vegetables",
+      "dataId": "46",
+      "alt": "куриное филе с овощами"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Стейк из антрекота",
+      "description": "Подается с нежным, воздушным картофельным пюре и острым перчиком.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "620",
+      "img": "Steak-from-entrecote",
+      "dataId": "47",
+      "alt": "стейк из антрекота"
+    },
+    {
+      "dish": "Блюда на гриле",
+      "title": "Бефстроганов из говядины",
+      "description": "Отборная говядина, приготовленная с шампиньонами в сливочном соусе. Оригинальная подача.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "570",
+      "img": "Beef-Stroganoff-from-beef",
+      "dataId": "48",
+      "alt": "бефстроганов из говядины"
+    }
+
+  ],
+  "grill_objects_en": [
+    {
+      "dish": "Grilled dishes",
+      "title": "Fillet Mignon",
+      "description": "Beef tenderloin, fried on a grill. Served with a side dish of asparagus and potatoes. Served with prune sauce.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "570",
+      "img": "Fillet-Mignon",
+      "dataId": "42",
+      "alt": "fillet Mignon"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Beef medallions",
+      "description": "Mild beef tenderloin, grilled with mushroom mule and ﬂavored spices",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "570",
+      "img": "Fillet-Mignon",
+      "dataId": "43",
+      "alt": "beef medallions"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Salmon Steak",
+      "description": "Salmon roasted on the grill. Served with rice and spinach sauce.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "620",
+      "img": "Salmon-Steak",
+      "dataId": "44",
+      "alt": "salmon steak"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Beef steak fillet steak",
+      "description": "Select beef tenderloin, cooked on a grill with garlic, aromatic herbs of rosemary and thyme. Served with grilled vegetables.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "570",
+      "img": "Beef-steak-fillet-steak",
+      "dataId": "45",
+      "alt": "beef steak fillet"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Chicken fillet with vegetables",
+      "description": "Chicken fillet with vegetables, stewed in tomato sauce with fragrant garlic and thyme.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "415",
+      "img": "Chicken-fillet-with-vegetables",
+      "dataId": "46",
+      "alt": "chicken fillet with vegetables"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Steak from entrecote",
+      "description": "Served with a delicate, light mashed potatoes and spicy pepper.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "620",
+      "img": "Steak-from-entrecote",
+      "dataId": "47",
+      "alt": "steak from entrecote"
+    },
+    {
+      "dish": "Grilled dishes",
+      "title": "Beef Stroganoff from beef",
+      "description": "Select beef, cooked with champignons in creamy sauce. Original feed.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "570",
+      "img": "Beef-Stroganoff-from-beef",
+      "dataId": "48",
+      "alt": "beef stroganoff"
+    }
+
+  ],
+  "grill_navigate": [
+    {
+      "image": "Fillet-Mignon-m",
+      "number_img": "01",
+      "alt": "fillet Mignon"
+    },
+    {
+      "image": "Beef-medallions-m",
+      "number_img": "02",
+      "alt": "beef medallions"
+    },
+
+    {
+      "image": "Salmon-Steak-m",
+      "number_img": "03",
+      "alt": "salmon steak"
+    },
+    {
+      "image": "Beef-steak-fillet-steak-m",
+      "number_img": "04",
+      "alt": "beef steak fillet"
+    },
+    {
+      "image": "Chicken-fillet-with-vegetables-m",
+      "number_img": "05",
+      "alt": "chicken fillet with vegetables"
+    },
+    {
+      "image": "Steak-from-entrecote-m",
+      "number_img": "06",
+      "alt": "steak from entrecote"
+    },
+    {
+      "image": "Beef-Stroganoff-from-beef-m",
+      "number_img": "07",
+      "alt": "beef stroganoff"
+    }
+  ],
+  "tea_objects": [
+    {
+      "dish": "Чай",
+      "title": "Чай землянично-малиновый",
+      "description": "Яркий землянично-малиновый чай с дольками апельсина и листьями мяты.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "280",
+      "img": "Strawberry-raspberry-tea",
+      "dataId": "49",
+      "alt": "чай землянично малиновый"
+    },
+    {
+      "dish": "Чай",
+      "title": "Чай из облепихи и ягод",
+      "description": "Ароматный чай из облепихи и ягод, с медом и дольками лимона.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "250",
+      "img": "Sea-buckthorn-and-berries-tea",
+      "dataId": "50",
+      "alt": "чай из облепихи и ягод"
+    }
+
+  ],
+  "tea_objects_en": [
+    {
+      "dish": "Tea",
+      "title": "Strawberry-raspberry tea",
+      "description": "Bright strawberry-raspberry tea with orange slices and mint leaves.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "280",
+      "img": "Strawberry-raspberry-tea",
+      "dataId": "49",
+      "alt": "strawberry raspberry tea"
+    },
+    {
+      "dish": "Tea",
+      "title": "Sea buckthorn and berries tea",
+      "description": "Aromatic tea with sea buckthorn and berries, with honey and lemon slices.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "250",
+      "img": "Sea-buckthorn-and-berries-tea",
+      "dataId": "50",
+      "alt": "sea buckthorn and berries tea"
+    }
+
+  ],
+  "tea_navigate": [
+    {
+      "image": "Strawberry-raspberry-tea-m",
+      "number_img": "01",
+      "alt": "strawberry raspberry tea"
+    },
+    {
+      "image": "strawberry raspberry tea",
+      "number_img": "02",
+      "alt": "sea buckthorn and berries tea"
+    }
+  ],
+  "coffee_objects": [
+    {
+      "dish": "Кофе",
+      "title": "Эспрессо",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "110",
+      "img": "Espresso",
+      "dataId": "51",
+      "alt": "эспрессо"
+    },
+    {
+      "dish": "Кофе",
+      "title": "Двойной Эспрессо",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Double-Espresso",
+      "dataId": "52",
+      "alt": "двойной эспрессо"
+    },
+    {
+      "dish": "Кофе",
+      "title": "Капучино",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "160",
+      "img": "Capuccino",
+      "dataId": "53",
+      "alt": "капучино"
+    },
+    {
+      "dish": "Кофе",
+      "title": "Латте",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "190",
+      "img": "Latte",
+      "dataId": "54",
+      "alt": "латте"
+    }
+
+  ],
+  "coffee_objects_en": [
+    {
+      "dish": "Coffee",
+      "title": "Espresso",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "110",
+      "img": "Espresso",
+      "dataId": "51",
+      "alt": "espresso"
+    },
+    {
+      "dish": "Coffee",
+      "title": "Double Espresso",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Double-Espresso",
+      "dataId": "52",
+      "alt": "double espresso"
+    },
+    {
+      "dish": "Coffee",
+      "title": "Capuccino",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "160",
+      "img": "Capuccino",
+      "dataId": "53",
+      "alt": "Capuccino"
+    },
+    {
+      "dish": "Coffee",
+      "title": "Latte",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "190",
+      "img": "Latte",
+      "dataId": "54",
+      "alt": "latte"
+    }
+
+  ],
+  "coffee_navigate": [
+    {
+      "image": "Espresso-m",
+      "number_img": "01",
+      "alt": "espresso"
+    },
+    {
+      "image": "Double-Espresso-m",
+      "number_img": "02",
+      "alt": "double espresso"
+    },
+
+    {
+      "image": "Capuccino-m",
+      "number_img": "03",
+      "alt": "capuccino"
+    },
+    {
+      "image": "Latte-m",
+      "number_img": "04",
+      "alt": "latte"
+    }
+  ],
+  "dessert_objects": [
+    {
+      "dish": "Десерты",
+      "title": "Воздушный чизкейк из творожного сыра",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "180",
+      "img": "cheesecake-from-cottage-cheese",
+      "dataId": "55",
+      "alt": "чизкейк"
+    },
+    {
+      "dish": "Десерты",
+      "title": "“Красный бархат”",
+      "description": "Десерт с нежным сливочным кремом.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "180",
+      "img": "Red-velvet",
+      "dataId": "56",
+      "alt": "красный бархат"
+    },
+    {
+      "dish": "Десерты",
+      "title": "“3 шоколада”",
+      "description": "Идеальное сочетание белого и черного молочного шоколада.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "160",
+      "img": "3-chocolate",
+      "dataId": "57",
+      "alt": "3 шоколада"
+    }
+
+  ],
+  "dessert_objects_en": [
+    {
+      "dish": "Dessert",
+      "title": "Light cheesecake from cottage cheese",
+      "description": "",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "180",
+      "img": "cheesecake-from-cottage-cheese",
+      "dataId": "55",
+      "alt": "cheesecake"
+    },
+    {
+      "dish": "Dessert",
+      "title": "“Red velvet”",
+      "description": "Dessert with a delicate creamy cream.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "180",
+      "img": "Red-velvet",
+      "dataId": "56",
+      "alt": "red velvet"
+    },
+    {
+      "dish": "Dessert",
+      "title": "“3 chocolate”",
+      "description": "The perfect combination of white and black milk chocolate.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "160",
+      "img": "3-chocolate",
+      "dataId": "57",
+      "alt": "3 chocolate"
+    }
+
+  ],
+  "dessert_navigate": [
+    {
+      "image": "cheesecake-m",
+      "number_img": "01",
+      "alt": "cheesecake"
+    },
+    {
+      "image": "Red-velvet-m",
+      "number_img": "02",
+      "alt": "red velvet"
+    },
+    {
+      "image": "3-chocolate-m",
+      "number_img": "03",
+      "alt": "3 chocolate"
+    }
+  ],
+  "turkish_objects": [
+    {
+      "dish": "Турецкая кухня",
+      "title": "Турецкие манты",
+      "description": "Турецкие манты приправленные йогуртом с чесночным соусом.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "380",
+      "img": "Turkish-Manti",
+      "dataId": "58",
+      "alt": "турецкие манты"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Гёзлеме с сыром",
+      "description": "Традиционная турецкая лепешка на тонко раскатанном тесте.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "160",
+      "img": "Gözleme",
+      "dataId": "59",
+      "alt": "гёзлеме с сыром"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Гёзлеме с мясом.",
+      "description": "Традиционная турецкая лепешка на тонко раскатанном тесте.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "180",
+      "img": "Gözleme-meat",
+      "dataId": "60",
+      "alt": "гёзлеме с мясом"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Традиционный турецкий суп из чечевицы. Mercimek çoebasi.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Traditional-Turkish-soup-of-lentils",
+      "dataId": "61",
+      "alt": "суп из чечевицы"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Традиционный турецкий суп из спелых томатов с овечьим сыром “Кашар”. Domates çoebasi.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "165",
+      "img": "Traditional-Turkish-soup-of-ripe-tomatoes",
+      "dataId": "62",
+      "alt": "суп из томатов с сыром"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Мясо в горшочке - Et sote.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "420",
+      "img": "Meat-in-a-pot",
+      "dataId": "63",
+      "alt": "мясо в горшочке"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Запеченный ягненок. Incik.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "450",
+      "img": "Baked-lamb",
+      "dataId": "64",
+      "alt": "запеченный ягненок"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Мясной кадаиф",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "550",
+      "img": "Meat-kadayif",
+      "dataId": "65",
+      "alt": "мясной кадаиф"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Кесадилья",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "240",
+      "img": "Quesadilla",
+      "dataId": "66",
+      "alt": "кесадилья"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Курица в соусе карри. Tavul-kari soslu.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "430",
+      "img": "Chicken-in-curry-sauce",
+      "dataId": "67",
+      "alt": "курица в соусе карри"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Курица по-мексикански. Mexica soclu tavuk.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "430",
+      "img": "The-chicken-is-Mexican",
+      "dataId": "68",
+      "alt": "курица по мексикански"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Турецкие котлеты. Kofte.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "480",
+      "img": "Kofte",
+      "dataId": "69",
+      "alt": "турецкие котлеты"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Десерт Ирмик",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "150",
+      "img": "Dessert-Irmik",
+      "dataId": "70",
+      "alt": "десерт ирмик"
+    },
+    {
+      "dish": "Турецкая кухня",
+      "title": "Десерт Шобиет",
+      "description": "Подается по 2 штуки.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "200",
+      "img": "Dessert-Shobiet",
+      "dataId": "71",
+      "alt": "десерт шобиет"
+    }
+
+  ],
+"turkish_objects_en": [
+    {
+      "dish": "Turkish cuisine",
+      "title": "Turkish Manti",
+      "description": "Turkish manti flavored with yogurt with garlic sauce.",
+      "ingridients": "Нежный салат с зернами граната",
+      "price": "380",
+      "img": "Turkish-Manti",
+      "dataId": "58",
+      "alt": "turkish manti"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Gözleme with cheese",
+      "description": "Traditional Turkish ﬂat cake on a thinly rolled dough.",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "160",
+      "img": "Gözleme",
+      "dataId": "59",
+      "alt": "gözleme with cheese"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Gözleme with meat",
+      "description": "Traditional Turkish ﬂat cake on a thinly rolled dough.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "180",
+      "img": "Gözleme-meat",
+      "dataId": "60",
+      "alt": "gözleme with meat"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Traditional Turkish soup of lentils. Mercimek çoebasi.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "140",
+      "img": "Traditional-Turkish-soup-of-lentils",
+      "dataId": "61",
+      "alt": "soup of lentils"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Traditional Turkish soup of ripe tomatoes with sheep cheese “Kashar”. Domates çoebasi.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "165",
+      "img": "Traditional-Turkish-soup-of-ripe-tomatoes",
+      "dataId": "62",
+      "alt": "soup of tomatoes"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Meat in a pot - Et sote.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "420",
+      "img": "Meat-in-a-pot",
+      "dataId": "63",
+      "alt": "meat in a pot"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Baked lamb. Incik.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "450",
+      "img": "Baked-lamb",
+      "dataId": "64",
+      "alt": "baked lamb"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Meat kadayif",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "550",
+      "img": "Meat-kadayif",
+      "dataId": "65",
+      "alt": "kadayif"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Quesadilla",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "240",
+      "img": "Quesadilla",
+      "dataId": "66",
+      "alt": "quesadilla"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Chicken in curry sauce. Tavul-kari soslu.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "430",
+      "img": "Chicken-in-curry-sauce",
+      "dataId": "67",
+      "alt": "chicken in curry"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Chicken is Mexican. Mexica soclu tavuk.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "430",
+      "img": "The-chicken-is-Mexican",
+      "dataId": "68",
+      "alt": "chicken is Mexican"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Turkish cutlets. Kofte.",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры, огурцы, нежный сыр, оливки, соус «Песто».",
+      "price": "480",
+      "img": "Kofte",
+      "dataId": "69",
+      "alt": "turkish cutlets"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Dessert Irmik",
+      "description": "",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, нежное мясо цыпленка ",
+      "price": "150",
+      "img": "Dessert-Irmik",
+      "dataId": "70",
+      "alt": "irmik"
+    },
+    {
+      "dish": "Turkish cuisine",
+      "title": "Dessert Shobiet",
+      "description": "Подается по 2 штуки.",
+      "ingridients": "Салат Айсберг, помидоры черри, сыр пармезан чеснок, креветки.",
+      "price": "200",
+      "img": "Dessert-Shobiet",
+      "dataId": "71",
+      "alt": "shobiet"
+    }
+
+  ],
+  "turkish_navigate": [
+    {
+      "image": "Turkish-Manti-m",
+      "number_img": "01",
+      "alt": "turkish manti"
+    },
+    {
+      "image": "Gözleme-m",
+      "number_img": "02",
+      "alt": "gözleme with cheese"
+    },
+
+    {
+      "image": "Gözleme-meat-m",
+      "number_img": "03",
+      "alt": "gözleme with meat"
+    },
+    {
+      "image": "Traditional-Turkish-soup-of-lentils-m",
+      "number_img": "04",
+      "alt": "soup of lentils"
+    },
+    {
+      "image": "Traditional-Turkish-soup-of-ripe-tomatoes-m",
+      "number_img": "05",
+      "alt": "soup of tomatoes"
+    },
+    {
+      "image": "Meat-in-a-pot-m",
+      "number_img": "06",
+      "alt": "meat in a pot"
+    },
+    {
+      "image": "Baked-lamb-m",
+      "number_img": "07",
+      "alt": "baked lamb"
+    },
+    {
+      "image": "Meat-kadayif-m",
+      "number_img": "08",
+      "alt": "kadayif"
+    },
+    {
+      "image": "Quesadilla-m",
+      "number_img": "09",
+      "alt": "quesadilla"
+    },
+    {
+      "image": "Chicken-in-curry-sauce-m",
+      "number_img": "10",
+      "alt": "chicken in curry"
+    },
+    {
+      "image": "The-chicken-is-Mexican-m",
+      "number_img": "11",
+      "alt": "chicken is Mexican"
+    },
+    {
+      "image": "Kofte-m",
+      "number_img": "12",
+      "alt": "turkish cutlets"
+    },
+    {
+      "image": "Dessert-Irmik-m",
+      "number_img": "13",
+      "alt": "irmik"
+    },
+    {
+      "image": "Dessert-Shobiet-m",
+      "number_img": "14",
+      "alt": "shobiet"
+    }
+  ]
+
+}

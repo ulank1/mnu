@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/sss"
+    android:background="@drawable/back"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/toolbar_custom"/>
+
+
+    <TextView
+
+        android:textStyle="bold"
+        android:textSize="37sp"
+        android:textColor="#fff"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="30dp"
+        android:text="@string/menu_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_weight="1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.RecyclerView
+        android:layout_weight="1"
+        android:id="@+id/rv"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+    <RelativeLayout
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/fastscroll__default_handle"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"/>
+
+    <ulan.menuterracotta.recyclerviewfastscroll.FastScroller
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+
+        android:id="@+id/fast"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content">
+
+
+    </ulan.menuterracotta.recyclerviewfastscroll.FastScroller>
+    </RelativeLayout>
+</LinearLayout>
+</LinearLayout>

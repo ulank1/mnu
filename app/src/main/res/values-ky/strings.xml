@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Меню Терракотта</string>
+    <string name="menu_category">Меню</string>
+    <string name="your_zakaz">Заказыңыз</string>
+    <string name="vybrat">Тандоо</string>
+    <string name="clear_order">Заказды өчүрү</string>
+    <string name="welcome">Кош Келиниздер!</string>
+    <string name="main_desc">Жагымдуу</string>
+    <string name="open_menu">Mенюну ачыңыз</string>
+    <string name="main_desc2">Даамдуу</string>
+    <string name="main_desc3">Ыңгайлуу</string>
+    <string name="sum_order">Заказдын суммасы</string>
+    <string name="obsluga">Тейлөө</string>
+    <string name="itogo">Жыйынтыгы</string>
+    <string name="remove_from_order">Буйуртмадан алып салуу?</string>
+    <string name="yes">Ооба</string>
+    <string name="no">Жок</string>
+    <string name="stock">акция</string>
+    <string name="new_food">новинка</string>
+    <string name="welcome_new">Кош келиниздер!</string>
+</resources>

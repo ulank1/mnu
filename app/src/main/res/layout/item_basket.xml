@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sss"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_marginBottom="20dp"
+    android:background="@drawable/back_category_rv"
+    android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:scaleType="centerInside"
+            android:id="@+id/imageView"
+            android:layout_width="160dp"
+            android:layout_height="120dp"
+            android:clickable="false"/>
+
+
+
+
+
+            <TextView
+
+                android:layout_marginLeft="15dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="sddsdsfsdfd"
+                android:textColor="#ffffff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_gravity="center_vertical"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/minus"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/minus" />
+
+                <TextView
+                    android:id="@+id/count"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="ss"
+                    android:textColor="#555" />
+                <ImageView
+                    android:id="@+id/plus"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/plus" />
+
+            </LinearLayout>
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.2"
+                android:gravity="center"
+                android:text="TextView"
+                android:textColor="#ff0000"
+                android:layout_gravity="center_vertical"
+                android:textSize="25sp" />
+
+
+
+
+
+
+
+    <ImageView
+        android:id="@+id/remove"
+        android:layout_width="110px"
+        android:layout_height="110px"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/remove" />
+
+</LinearLayout>
